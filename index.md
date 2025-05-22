@@ -8,9 +8,7 @@ tags:
 
 <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
 style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
-color:#E98804;mso-font-kerning:0pt'>如果你希望三分钟就搭建一个企业对外服务的工具</span><span
-lang=EN-US style='font-size:12.0pt;font-family:宋体;mso-bidi-font-family:宋体;
-mso-font-kerning:0pt'><o:p></o:p></span></p>
+color:#E98804;mso-font-kerning:0pt'>如果你希望三分钟就搭建一个企业对外服务的工具</span></p>
 
 <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
 style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体;
