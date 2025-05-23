@@ -59,7 +59,7 @@
         <div
           class="p-4 border-b border-gray-200 flex justify-between items-center"
         >
-          <img src="http://192.168.3.123:5600/static/uploads/111.jpg" alt="略和AI Logo" class="h-8 object-contain" />
+          <img src="https://github.com/kangningalibaba/kindex.github.io/blob/main/AI%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9E%E6%88%98/logo.png" alt="略和AI Logo" class="h-8 object-contain" />
           <button
             id="toggleSidebar"
             class="text-gray-500 hover:text-gray-700 ml-auto"
